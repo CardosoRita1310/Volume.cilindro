@@ -1,0 +1,10 @@
+//estudos: programa para calculo do volume do cilindro
+fun main()
+{
+    var altura = 4
+    var raio = 2
+    val pi = 3.14
+    var volume = pi * raio * raio * altura
+    
+    println ("O volume calculado é igual a: $volume")
+}
